@@ -57,7 +57,7 @@
           <li>MySQL</li>
       </ul>
   <p class="text-center mt-3"> 
-    <a href="https://github.com/oleksiidan/english-cards" class="text-decoration-underline text-dark" target="_blank">
+    <a href="https://github.com/danyshevskyi/english-cards" class="text-decoration-underline text-dark" target="_blank">
         <i class="bi bi-github pe-1 1text-black"></i>English Cards on GitHub
     </a>
   </p>
