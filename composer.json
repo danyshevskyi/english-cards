@@ -1,0 +1,26 @@
+{
+    "name": "oleksiidan/english-cards",
+    "type": "project",
+    "autoload": {
+        "psr-4": { 
+            "Cards\\": "../english-cards/",   
+            "Auth\\": "../auth/",
+            "Analytics\\": "../analytics/",
+            "Repo\\": "../repo/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleksii Danyshevskyi",
+            "email": "danishevskij@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "mikecao/flight": "^2.0",
+        "twig/twig": "^3.5",
+        "illuminate/database": "^10.46",
+        "foroco/php-browser-detection": "^2.7",
+        "kudashevs/accept-language": "^3.4"
+    }
+}
